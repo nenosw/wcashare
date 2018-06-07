@@ -1,9 +1,12 @@
-### Pup
-A boilerplate for products.
+#WCA Share
+
+An App for sharing Documents and Videos with clients. Still under development.
+
+### 
+This Project is based on Pup, a meteor-react boilerplate for products.
 
 [Read the Documentation](http://cleverbeagle.com/pup)
 
 ---
 
-Need help and want to stay accountable building your product? [Check out Clever Beagle](http://cleverbeagle.com).
 # wcashare
